@@ -28,10 +28,7 @@ In this project, I have Extracted the data into CSVs from APIs from Covid-19 Dat
 📃 Dashboard
 ---
 ![200942746-ddd67224-afbb-400d-bc28-056e6e631a3f](https://github.com/reema08/Covid19-Project/assets/109653833/9435e2f6-11d8-4f92-9b8b-798893de7df0)
-![178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d](https://github.com/reema08/Covid19-Project/assets/109653833/c459935b-c05e-42a6-807e-1790dfb5dc86) 
-
-<img src="https://camo.githubusercontent.com/..." data-canonical-
-     src="178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d" width="200" height="400" />
-Google Drive Link :
+![178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d](https://github.com/reema08/Covid19-Project/assets/109653833/c459935b-c05e-42a6-807e-1790dfb5dc86) Google Drive Link :
+<image src="https://github.com/reema08/Covid19-Project/assets/109653833/56234fba-9203-4b53-8973-cced8e1d9f13" width="80" hight="80" />
 ---
 * All the necessary data in one folder: Click here
