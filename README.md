@@ -17,4 +17,10 @@ In this project, I have Extracted the data into CSVs from APIs from Covid-19 Dat
 
 * Analysis on the Covid-19 State wise and Date wise based on:
   - Active Cases
+  - Recovered Cases
+  - Confirmed Cases
+  - First Dose
+  - Second Dose
+  - Unvaccinated
+  - Second Vaccination Pending.
 
