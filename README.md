@@ -15,3 +15,6 @@ In this project, I have Extracted the data into CSVs from APIs from Covid-19 Dat
 
 ![178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66](https://github.com/reema08/Covid19-Project/assets/109653833/2a694b51-5d7d-47c2-837b-49c9306a701a) Analysis
 
+-Analysis on the Covid-19 State wise and Date wise based on:
+ -Active Cases
+
