@@ -5,3 +5,9 @@ In this project, I have Extracted the data into CSVs from APIs from Covid-19 Dat
 
 ![181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63](https://github.com/reema08/Covid19-Project/assets/109653833/d189f76a-6a6d-45b3-b370-cd3b503309cf) User's Manual
 
+| Files/Folder | Description |
+| ------------ | ----------- |
+| Data Folder | This folder provides you a google drive link where you can find the Extracted Tables used |
+| Python And Sql Files | This folder provides you Files that i used to Extract all data from APIs through Python. And SQL queries written to get insights |
+| Excel Folder | This folder contains an Excel file where I have done different kinds of analysis and created different kinds of charts using the data which I have drawn from the database using SQL. |
+| Presentation Folder | You can view all the insights I discovered after doing my task in a PDF file that is contained in this folder. |
