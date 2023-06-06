@@ -4,7 +4,8 @@ In this project, I have Extracted the data into CSVs from APIs from Covid-19 Dat
 ![181936448-9314e858-4251-46d6-b4d1-35a4c29e9c19](https://github.com/reema08/Covid19-Project/assets/109653833/017ff44f-8b55-48c2-8fce-5605fdb53159)![181936483-50475e86-bcf1-4169-994c-6476dc2e5edb](https://github.com/reema08/Covid19-Project/assets/109653833/383701b3-ba1b-4c77-ab92-9eaf791e36b0)
 
 
-![181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63](https://github.com/reema08/Covid19-Project/assets/109653833/d189f76a-6a6d-45b3-b370-cd3b503309cf) User's Manual
+
+<image src="https://github.com/reema08/Covid19-Project/assets/109653833/754259e6-99f5-4031-acbd-39b6146a856f" width="80" hight="80" /> User's Manual
 ---
 | Files/Folder | Description |
 | ------------ | ----------- |
