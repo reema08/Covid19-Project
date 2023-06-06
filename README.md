@@ -24,4 +24,8 @@ In this project, I have Extracted the data into CSVs from APIs from Covid-19 Dat
   - Unvaccinated
   - Second Vaccination Pending.
 
+![image](https://github.com/reema08/Covid19-Project/assets/109653833/c4bcd1bb-fc5b-47d9-a423-1fcc4f47294b)
 
+
+
+📃
